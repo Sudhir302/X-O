@@ -11,10 +11,12 @@ A fun and interactive web-based Tic Tac Toe game with light mode toggle and real
 - Score Tracking: Keeps track of each player's wins across rounds
 
 ## Screenshots
-![Mobile-view-1](./Screenshots/mob1.jpg)
-![Moblie-view-2](./Screenshots/desk2.jpg)
-![Desktop-view-1](./Screenshots/desk1.jpg)
-![Desktop-view-2](./Screenshots/mob2.jpg)
+<div>
+   <img src ="./Screenshots/desk1.jpg" alt = "Desktop-view-1" width = "500" height = "300" />
+   <img src ="./Screenshots/mob2.jpg" alt = "Desktop-view-2" width = "500" height = "300" />
+   <img src ="./Screenshots/mob1.jpg" alt = "Mobile-view-1" width = "200" height = "300" />
+   <img src ="./Screenshots/desk2.jpg" alt = "Mobile-view-2" width = "200" height = "300" />
+</div>
 
 ## 👩‍💻Technologies Used
 - HTML5
