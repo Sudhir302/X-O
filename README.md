@@ -29,5 +29,10 @@ A fun and interactive web-based Tic Tac Toe game with light mode toggle and real
    _No Dependencies_
 3. Run the app:
    _Go Live_
+
+## License
+## 📄 License
+
+This project is licensed under the MIT LICENSE - see the [MIT License](./LICENSE) for details.
 ## Contact
 Sudhir Chaudhary - csudhir302@gmail.com
