@@ -19,16 +19,16 @@ let lightMode = document.querySelector('#light-mode');
 
 function lightSystem(){
     if (lightMode.innerText ==="light off"){
-        body.style.background = "linear-gradient(45deg, black,white,black)";
+        body.style.background = "linear-gradient(135deg, #f6d365, #fda085)";
         lightMode.innerText = "light on";
-        lightMode.style.background = 'black';
+        lightMode.style.background = 'linear-gradient(135deg, #f6d365, #fda085)';
         lightMode.style.color = 'white';
     }
     else if (lightMode.innerText === "light on"){
-        body.style.background = "linear-gradient(45deg,gray, silver, wheat)";
+        body.style.background = "linear-gradient(135deg, #c2e9fb, #a1c4fd)";
         lightMode.innerText = "light off";
-        lightMode.style.background = 'white';
-        lightMode.style.color = 'black';
+        lightMode.style.background = 'linear-gradient(135deg, #c2e9fb, #a1c4fd)';
+        lightMode.style.color = 'white';
     }
 }
 
