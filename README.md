@@ -13,8 +13,8 @@ A fun and interactive web-based Tic Tac Toe game with light mode toggle and real
 ## Screenshots
 <div>
    <img src ="./Screenshots/desk1.jpg" alt = "Desktop-view-1" width = "500" height = "300" />
-   <img src ="./Screenshots/mob2.jpg" alt = "Desktop-view-2" width = "500" height = "300" />
    <img src ="./Screenshots/mob1.jpg" alt = "Mobile-view-1" width = "200" height = "300" />
+   <img src ="./Screenshots/mob2.jpg" alt = "Desktop-view-2" width = "500" height = "300" />
    <img src ="./Screenshots/desk2.jpg" alt = "Mobile-view-2" width = "200" height = "300" />
 </div>
 
